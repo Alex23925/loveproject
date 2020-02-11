@@ -1,0 +1,42 @@
+<svg width="1173" height="969" viewBox="0 0 1173 969" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1173" height="969" fill="#E5E5E5"/>
+<g id="Heart">
+<g id="rightHPart">
+<rect x="790.626" y="2.43799" width="539.6" height="809.087" rx="269.8" transform="rotate(45 790.626 2.43799)" fill="#FEABAB"/>
+<rect x="790.626" y="2.43799" width="539.6" height="809.087" rx="269.8" transform="rotate(45 790.626 2.43799)" fill="#DE3333" fill-opacity="0.74"/>
+</g>
+<g id="rightHPart_2">
+<rect y="381.555" width="539.6" height="817.48" rx="269.8" transform="rotate(-45 0 381.555)" fill="#FEABAB"/>
+<rect y="381.555" width="539.6" height="817.48" rx="269.8" transform="rotate(-45 0 381.555)" fill="#DE3333" fill-opacity="0.74"/>
+</g>
+<g id="rightCorner">
+<rect x="626.148" y="183.471" width="522.237" height="573.062" transform="rotate(45 626.148 183.471)" fill="#FEABAB"/>
+<rect x="626.148" y="183.471" width="522.237" height="573.062" transform="rotate(45 626.148 183.471)" fill="#DE3333" fill-opacity="0.74"/>
+</g>
+<g id="rightCorner_2">
+<rect x="171.692" y="551.989" width="533.539" height="589.743" transform="rotate(-45 171.692 551.989)" fill="#FEABAB"/>
+<rect x="171.692" y="551.989" width="533.539" height="589.743" transform="rotate(-45 171.692 551.989)" fill="#DE3333" fill-opacity="0.74"/>
+</g>
+</g>
+<g id="Smile">
+<path id="lips" d="M841 389.931C841 415.928 834.87 441.753 822.858 465.958C810.84 490.176 793.135 512.36 770.609 531.162C748.079 549.968 721.203 564.989 691.466 575.27C661.73 585.551 629.795 590.862 597.5 590.862C565.205 590.862 533.269 585.551 503.534 575.27C473.797 564.989 446.921 549.968 424.391 531.162C401.865 512.36 384.16 490.176 372.142 465.958C360.13 441.753 354 415.928 354 389.931" stroke="black" stroke-width="28"/>
+<circle id="endLeft" cx="354" cy="393" r="14" fill="black"/>
+<ellipse id="endRight" cx="841" cy="392.5" rx="14" ry="13.5" fill="black"/>
+</g>
+<g id="Eyes">
+<g id="leftEye">
+<circle cx="529.473" cy="390.349" r="80.9643" fill="white"/>
+<circle cx="529.473" cy="390.349" r="80.9643" stroke="black"/>
+</g>
+<circle id="leftPupil" cx="529.056" cy="390.766" r="40.4822" fill="black"/>
+<g id="rightEye">
+<circle cx="666.361" cy="390.349" r="80.9643" fill="white"/>
+<circle cx="666.361" cy="390.349" r="80.9643" stroke="black"/>
+</g>
+<circle id="rightPupil" cx="665.944" cy="390.766" r="40.4822" fill="black"/>
+</g>
+<g id="EyesClosed">
+<path id="lowerLeftEyeLid" d="M580.5 390C580.5 398.733 578.78 407.38 575.438 415.448C572.096 423.517 567.198 430.848 561.023 437.023C554.848 443.198 547.517 448.096 539.448 451.438C531.38 454.78 522.733 456.5 514 456.5C505.267 456.5 496.62 454.78 488.552 451.438C480.483 448.096 473.152 443.198 466.977 437.023C460.802 430.848 455.904 423.517 452.562 415.448C449.22 407.38 447.5 398.733 447.5 390" stroke="black" stroke-width="15"/>
+<path id="lowerRightEyeLid" d="M746.809 390C746.809 398.733 745.089 407.38 741.747 415.448C738.405 423.517 733.507 430.848 727.332 437.023C721.157 443.198 713.826 448.096 705.758 451.438C697.69 454.78 689.042 456.5 680.309 456.5C671.576 456.5 662.929 454.78 654.861 451.438C646.793 448.096 639.462 443.198 633.287 437.023C627.112 430.848 622.213 423.517 618.871 415.448C615.529 407.38 613.809 398.733 613.809 390" stroke="black" stroke-width="15"/>
+</g>
+</svg>

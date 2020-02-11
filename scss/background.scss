@@ -1,0 +1,20 @@
+.bgSVG
+{
+    background-repeat: repeat;
+}
+
+.ellipse {
+    animation: move 25s linear infinite;
+}
+
+.kiss
+{
+    animation: move 25s linear infinite;
+}
+
+@keyframes move
+{
+    0%{transform: translate(0px, 0px)};
+    50%{transform: translate(50px, 50px)};
+    100%{transform: translate(0px, 0px)}
+}

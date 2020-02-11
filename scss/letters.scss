@@ -1,0 +1,155 @@
+:root {
+    --duration: 1.2s;
+}
+
+.text path:nth-child(2) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear forwards;
+}
+
+.text path:nth-child(3) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear .6s forwards;
+}
+
+.text path:nth-child(4) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear .94s forwards;
+}
+
+.text path:nth-child(5) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear 1.2s forwards;
+}
+
+.text path:nth-child(6) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear 1.4s forwards;
+}
+
+.text path:nth-child(7) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear 1.8s forwards;
+}
+
+.text path:nth-child(8) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear 2.2s forwards;
+}
+
+.text path:nth-child(9) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear 2.5s forwards;
+}
+
+.text path:nth-child(10) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear 2.7s forwards;
+}
+
+.text path:nth-child(11) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear 2.95s forwards;
+}
+
+.text path:nth-child(12) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear 3.5s forwards;
+}
+
+.text path:nth-child(13) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear 3.8s forwards;
+}
+
+.text path:nth-child(14) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear 4.1s forwards;
+}
+
+.text path:nth-child(15) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear 4.4s forwards;
+}
+
+.text path:nth-child(16) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear 4.8s forwards;
+}
+
+.text path:nth-child(17) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear 5.1s forwards;
+}
+
+.text path:nth-child(18) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear 5.4s forwards;
+}
+
+.text path:nth-child(19) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear 5.8s forwards;
+}
+
+.text path:nth-child(20) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear 6.1s forwards;
+}
+
+.text path:nth-child(21) {
+    stroke: none;
+    stroke-dasharray: 800;
+    stroke-dashoffset: 0;
+    animation: dash var(--duration) linear 6.4s forwards;
+}
+
+@keyframes dash {
+    from {
+        stroke: white;
+        stroke-dashoffset: 800;
+    }
+
+    to {
+        stroke: white;
+        stroke-dashoffset: 0;
+    }
+}
